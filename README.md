@@ -60,3 +60,12 @@ Working on the actual Blue Closet Traders website
 
 </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<a href="https://www.instagram.com">This is for Instagram.com</a>
+
+</body>
+</html>
