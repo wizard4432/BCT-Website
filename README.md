@@ -51,3 +51,12 @@ Working on the actual Blue Closet Traders website
 							<li class="youtube"><a target="_blank" title="Watch our videos on YouTube" href="http://www.youtube.com/user/blueclosettraders">Youtube</a></li>
 						</ul>
 					</div>
+					
+					<!DOCTYPE html>
+<html>
+<body>
+
+<a href="https://www.pinterest.com">This is for Pinterest.com</a>
+
+</body>
+</html>
