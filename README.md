@@ -42,3 +42,12 @@ Working on the actual Blue Closet Traders website
 
   </body>
 </html>
+
+<div id="social" class="box">
+						<ul class="ir">
+							<li class="facebook first"><a target="_blank" title="Like us on Facebook" href="http://www.facebook.com/BlueClosetTraders">Facebook</a></li>
+							<li class="twitter"><a target="_blank" title="Follow us on Twitter" href="http://www.twitter.com/blueclosettraders">Twitter</a></li>
+							<li class="tumblr"><a target="_blank" title="Tumblr" href="http://blueclosettraders.tumblr.com/">Tumblr</a></li>
+							<li class="youtube"><a target="_blank" title="Watch our videos on YouTube" href="http://www.youtube.com/user/blueclosettraders">Youtube</a></li>
+						</ul>
+					</div>
