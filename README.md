@@ -51,3 +51,12 @@ Working on the actual Blue Closet Traders website
 							<li class="youtube"><a target="_blank" title="Watch our videos on YouTube" href="http://www.youtube.com/user/blueclosettraders">Youtube</a></li>
 						</ul>
 					</div>
+					
+					
+					<html>
+<body>
+
+<img src="C:/Users/JenKilgore/Desktop/bctlogo.jpg" alt="C:/Users/JenKilgore/Desktop/bctlogo.jpg" width="104" height="142">
+
+</body>
+</html>
