@@ -69,3 +69,12 @@ Working on the actual Blue Closet Traders website
 
 </body>
 </html>
+
+
+<html>
+<body>
+
+<img src="C:/Users/Jen%20Kilgore/Desktop/bctlogo.jpg" alt="C:/Users/Jen%20Kilgore/Desktop/bctlogo.jpg" width="104" height="142">
+
+</body>
+</html>
